@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Alyssa Roach 👋
 
-<!--
-**AlyRoach/AlyRoach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I'm an inspiring Full-Stack Web Developer and Student!
+----------------------------------------------------------------------
 
 - 🔭 I’m currently working on multiple projects for my portfolio!
 - 🌱 I’m currently learning everything I can.
