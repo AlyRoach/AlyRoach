@@ -1,0 +1,15 @@
+.logo{
+    transform: translateX(-90px);
+}
+
+#navbarNav{
+    transform: translateX(90px);
+    font-family: Garamond;
+    font-size: 20px;
+}
+
+.btn-outline-secondary{
+    color: #cfc9c9;
+}
+
+
