@@ -1,6 +1,6 @@
 ### Hi there, I'm Alyssa Roach 👋
 
-### I'm an inspiring Full-Stack Web Developer and Student!
+### I'm an aspiring Full-Stack Web Developer and Student!
 ----------------------------------------------------------------------
 
 - 🔭 I’m currently working on multiple projects for my portfolio!
